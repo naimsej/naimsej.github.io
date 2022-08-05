@@ -1,4 +1,2 @@
 theme: jekyll-theme-minimal
-permalink: pretty
-page.url | remove: '.html'
-permalink: /CAPM-Financial-Analysis/
+permalink: /:CAPM-Financial-Analysis/
