@@ -1,1 +1,0 @@
-# naimsej.github.io
